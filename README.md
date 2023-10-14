@@ -1,5 +1,7 @@
 # College-Event-Management
 
+Collaboration with @Believer2722
+
 The technologies used in this project are:
 • Front-end : HTML,CSS,JS,Bootstrap,Jquery
 • Back-end : PHP,MYSQL,Apache
